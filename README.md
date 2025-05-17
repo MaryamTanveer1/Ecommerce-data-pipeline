@@ -1,6 +1,6 @@
 # E-commerce Data Pipeline with AWS Serverless Stack
 
-![Architecture Diagram](./eimages/Architecture_diagram.png)  
+![Architecture Diagram](./eimages/Architecture.png)  
 *Figure 1: Architecture Diagram of the Serverless Data Pipeline*
 
 ![Dashboard Screenshot](./eimages/dashboard.png)  
