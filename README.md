@@ -23,7 +23,7 @@ This project implements a scalable, serverless data pipeline for the Olist E-com
 - **AWS Lambda**: A scheduled Lambda function, triggered via Amazon CloudWatch Events, simulates the continuous ingestion of inventory and sales data into Amazon Timestream.
 
 - **Amazon QuickSight**: The QuickSight dashboard visualizes customer distribution by city, state, and zip code, along with unique vs total customer counts to reveal key demographic insights.
-- 
+  
 ## Achievements
 
 - Built a fully serverless, scalable ETL pipeline for comprehensive e-commerce analytics.  
